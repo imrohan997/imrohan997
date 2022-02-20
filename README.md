@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working as a Power Programmer at Infosys.
+🌱 I’m working with Java 11,Springboot,Cassandra,Couchbase,Elastic Search,Apache Kafka,Docker.
+📫 How to reach me: https://www.linkedin.com/in/imrohan997/
+My hacker rank profile: https://www.hackerrank.com/imrohan997?hr_r=1
