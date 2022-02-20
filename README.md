@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hola, I am Rohan Agarwal 👋
 
 <!--
 **imrohan997/imrohan997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working as a Power Programmer at Infosys.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working as a Power Programmer at Infosys.
-🌱 I’m working with Java 11,Springboot,Cassandra,Couchbase,Elastic Search,Apache Kafka,Docker.
-📫 How to reach me: https://www.linkedin.com/in/imrohan997/
-My hacker rank profile: https://www.hackerrank.com/imrohan997?hr_r=1
+- 🔭 I’m currently working as a Power Programmer at Infosys.
+- 🌱 I’m currently learning Java Backend Development
+- 💬 Ask me about Java and Springboot
+- 📫 How to reach me: https://www.linkedin.com/in/imrohan997/
+- 📫My hackerrank profile: https://www.hackerrank.com/imrohan997?hr_r=1
