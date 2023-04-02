@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a Power Programmer at Infosys.
+- 🔭 I’m currently working as a Specialist Programmer at Infosys.
+- 🔭 I' m working with Client Apple on their reservation Platform Application.
 - 🌱 I’m currently learning Java Backend Development
 - 💬 Ask me about Java and Springboot
 - 📫 How to reach me: https://www.linkedin.com/in/imrohan997/
