@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a Software Engineer at S&P GLobal Market Intelligence.
+- 🔭 I’m currently working as a Software Engineer at S&P Global Market Intelligence.
 - 🌱 I’m currently learning Java Backend Development in depth.
 - 💬 Ask me about Java and Springboot
 - 📫 How to reach me: https://www.linkedin.com/in/imrohan997/
