@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a Specialist Programmer at Infosys.
-- 🔭 I' m working with Client Apple on their reservation Platform Application.
-- 🌱 I’m currently learning Java Backend Development
+- 🔭 I’m currently working as a Software Engineer at S&P GLobal Market Intelligence.
+- 🌱 I’m currently learning Java Backend Development in depth.
 - 💬 Ask me about Java and Springboot
 - 📫 How to reach me: https://www.linkedin.com/in/imrohan997/
 - 📫My hackerrank profile: https://www.hackerrank.com/imrohan997?hr_r=1
